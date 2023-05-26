@@ -1,3 +1,3 @@
 # jellaudaykiran
 Hello, 
-Welcome to my GitHUb Page.
+Welcome to my GitHub Page.
